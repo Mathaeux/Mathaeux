@@ -1,5 +1,5 @@
 <body>
-  <h2>About me</h2>
+  <h1>About me</h1>
   <p>I Really like bats. 🦇</p>
   <p>Favorite languages? Rust, C++, Python and Java.</p>
   <h2>Info</h2>
